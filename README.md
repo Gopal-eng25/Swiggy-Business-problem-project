@@ -41,13 +41,7 @@ turning raw data into meaningful business insights.
 - Data Cleaning
 - Data Validation
 
-### 👥 HR Analytics Dashboard
-**Microsoft Excel**
 
-- Employee attrition analysis
-- KPI development
-- Churn analysis
-- Interactive dashboard
 
 ## 🎓 Education
 
